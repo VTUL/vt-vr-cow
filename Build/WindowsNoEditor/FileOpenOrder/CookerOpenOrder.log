@@ -1,0 +1,354 @@
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Old/NewLevelSequence.uasset" 0
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Player_Controller.uasset" 1
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bone_GameMode.uasset" 2
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 3
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Back_Legs_Normal.uasset" 4
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Bovine_Back_Legs_Mat.uasset" 5
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Front_Legs_Normal.uasset" 6
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Front_Legs_Mat.uasset" 7
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Head_Normal.uasset" 8
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Head_Mat.uasset" 9
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Ribs_Normal.uasset" 10
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Ribs_Mat.uasset" 11
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Spine_Normal.uasset" 12
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Spine_Mat.uasset" 13
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Lungs_LP_defaultMat_BaseColor.uasset" 14
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Lungs_LP_defaultMat_Normal.uasset" 15
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Lungs_LP_defaultMat_OcclusionRoughnessMetallic.uasset" 16
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Lungs_Mat.uasset" 17
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Bovine_Lungs.uasset" 18
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Heart_LP_defaultMat_BaseColor.uasset" 19
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Heart_LP_defaultMat_Normal.uasset" 20
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Heart_LP_defaultMat_OcclusionRoughnessMetallic.uasset" 21
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Heart_Mat.uasset" 22
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Heart.uasset" 23
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Kidney_BaseColor.uasset" 24
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Kidney_Normal.uasset" 25
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Kidney_OcclusionRoughnessMetallic.uasset" 26
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Kidney_MAt.uasset" 27
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Kidney.uasset" 28
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Stomach_low_blinn1SG_BaseColor.uasset" 29
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Stomach_low_blinn1SG_Normal.uasset" 30
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Stomach_low_blinn1SG_OcclusionRoughnessMetallic.uasset" 31
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Stomach_Mat.uasset" 32
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Organs/Stomach.uasset" 33
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 34
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 35
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 36
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 37
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Body_of_Ilium.uasset" 38
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Calcaneus.uasset" 39
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Distal_Phalanges.uasset" 40
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Distal_Sesamoids.uasset" 41
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Femur.uasset" 42
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Fused_3rd-4th_Metatarsals.uasset" 43
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Middle_Phalanges.uasset" 44
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Patella.uasset" 45
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Proximal_Phalanges.uasset" 46
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Proximal_Sesamoids.uasset" 47
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Talus.uasset" 48
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Tarsals.uasset" 49
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Tibia.uasset" 50
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Back_Legs/Unknown_Tibia.uasset" 51
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/5th_Metacarpals.uasset" 52
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/Carpals.uasset" 53
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/Fused_3rd-4th_Metacarpals.uasset" 54
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/Humerus.uasset" 55
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/Phalanges.uasset" 56
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/Radius.uasset" 57
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/Scalpula.uasset" 58
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/Sesamoids.uasset" 59
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Front_Legs/Ulna.uasset" 60
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/Atlas_C1_.uasset" 61
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/C2.uasset" 62
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/C3.uasset" 63
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/C4.uasset" 64
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/C5.uasset" 65
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/C6.uasset" 66
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/C7.uasset" 67
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/Mandible.uasset" 68
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/Mandible_Bits.uasset" 69
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Head/Skull.uasset" 70
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/Caudal_Vertebrae.uasset" 71
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/L1.uasset" 72
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/L2.uasset" 73
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/L3.uasset" 74
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/L4.uasset" 75
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/L5.uasset" 76
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/L6.uasset" 77
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/Ribs.uasset" 78
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T1.uasset" 79
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T10.uasset" 80
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T11.uasset" 81
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T12.uasset" 82
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T13.uasset" 83
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T2.uasset" 84
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T3.uasset" 85
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T4.uasset" 86
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T5.uasset" 87
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T6.uasset" 88
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T7.uasset" 89
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T8.uasset" 90
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Models/Standing/Spine/T9.uasset" 91
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine_BP.uasset" 92
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 93
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/Widget3DPassThrough.uasset" 94
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 95
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/DefaultTextMaterialOpaque1.uasset" 96
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/DefaultTextMaterialOpaque1_Inst.uasset" 97
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 98
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 99
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 100
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/RotationHandleFull.uasset" 101
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/TranslateArrowHandle.uasset" 102
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 103
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 104
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 105
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 106
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 107
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 108
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 109
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 110
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/VivePreControllerMesh.uasset" 111
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/Question_Type.uasset" 112
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/Quiz_Structure.uasset" 113
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/Quiz_Data_Table.uasset" 114
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/Vive_Controls.uasset" 115
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/Bovine/Hand_Menu_Bovine.uasset" 116
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/Hand_Menu_Main.uasset" 117
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/VRPawn.uasset" 118
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRI.uasset" 119
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRIB.uasset" 120
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRII.uasset" 121
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRIL.uasset" 122
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRILI.uasset" 123
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRIZ.uasset" 124
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRI_Font.uasset" 125
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bone_Widget.uasset" 126
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/VR_WidgetActor.uasset" 127
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Audio/Dog_Tutorial_Audio.uasset" 128
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Back_Legs_OcclusionRoughnessMetallic.uasset" 129
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Front_Legs_OcclusionRoughnessMetallic.uasset" 130
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Head_OcclusionRoughnessMetallic.uasset" 131
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Ribs_OcclusionRoughnessMetallic.uasset" 132
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Bovine/Materials/Spine_OcclusionRoughnessMetallic.uasset" 133
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/ADOBEFANHEITISTD-BOLD.uasset" 134
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/ADOBEFANHEITISTD-BOLD_Font.uasset" 135
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/ADOBEGOTHICSTD-BOLD.uasset" 136
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/ADOBEGOTHICSTD-BOLD_Font.uasset" 137
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRIB_Font.uasset" 138
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRII_Font.uasset" 139
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRILI_Font.uasset" 140
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRIL_Font.uasset" 141
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/CALIBRIZ_Font.uasset" 142
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/IMPACT.uasset" 143
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Fonts/IMPACT_Font.uasset" 144
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 145
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/Cylinder.uasset" 146
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 147
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 148
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/OculusControllerMesh.uasset" 149
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/Meshes/CubeMaterial.uasset" 150
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/Meshes/1M_Cube.uasset" 151
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 152
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/Meshes/TemplateFloor.uasset" 153
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/Open_Menu.uasset" 154
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/Open_Menu_Mat.uasset" 155
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/VR_Keyboard.uasset" 156
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Menus/images/HighresScreenshot00001.uasset" 157
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/Highlight_Sphere_MAt.uasset" 158
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/NewMaterial.uasset" 159
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/Transparent_Blue.uasset" 160
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Test_Widget/Test_Widget_1.uasset" 161
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Test_Widget/BP_MenuActor.uasset" 162
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 163
+"../../../Engine/Content/BasicShapes/Cone.uasset" 164
+"../../../Engine/Content/BasicShapes/Cube.uasset" 165
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 166
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 167
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 168
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 169
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 170
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 171
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 172
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 173
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 174
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 175
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 176
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 177
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 178
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 179
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 180
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 181
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 182
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 183
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 184
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 185
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 186
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 187
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 188
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 189
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 190
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 191
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 192
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 193
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 194
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 195
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 196
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 197
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 198
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 199
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 200
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 201
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 202
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 203
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 204
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 205
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 206
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 207
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 208
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 209
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 210
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 211
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 212
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 213
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 214
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 215
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 216
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 217
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 218
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 219
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 220
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 221
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 222
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 223
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 224
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 225
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 226
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 227
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 232
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 233
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 234
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 235
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 236
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 237
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 238
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 239
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 240
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 241
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 242
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 243
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 244
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 245
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 246
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 247
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 248
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 249
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 250
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 251
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 252
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 253
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 254
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 255
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 256
+"../../../Engine/Content/EngineResources/Black.uasset" 257
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 258
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 259
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 260
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 261
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 262
+"../../../Engine/Content/EngineSounds/Master.uasset" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 265
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 266
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 267
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 268
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 286
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 287
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 288
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 289
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 290
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 291
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 292
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 293
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 294
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 295
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 296
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 297
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 298
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 299
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 300
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 301
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 302
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 303
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 304
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 305
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 306
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 307
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 308
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 309
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 310
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 311
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 312
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 313
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 314
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 315
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 316
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 317
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 318
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 319
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 320
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 321
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 322
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Player_Character.uasset" 323
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Test_Widget/Test_HUD.uasset" 324
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/VR_Gamemode.uasset" 325
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Main_Menu_BuiltData.uasset" 326
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/Controls_Mat.uasset" 327
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/uSE_THE_MENU.uasset" 328
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/Controls_Mat1.uasset" 329
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/M_Highlight.uasset" 330
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/White.uasset" 331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 332
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 333
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 334
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/Fade_Material.uasset" 335
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Technical_Materials/Fade_Material_Inst.uasset" 336
+"../../../Engine/Content/BasicShapes/Plane.uasset" 337
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Geometry/Sphere.uasset" 338
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Main_Menu.umap" 339
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Movies/Dog_Tutorial_Video.uasset" 340
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Bovine_Anatomy_BuiltData.uasset" 341
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Movies/TutorialMediaPlayer.uasset" 342
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Movies/NewMediaPlayer_Video.uasset" 343
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Movies/TutorialMaterial.uasset" 344
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Bovine_Anatomy.umap" 345
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Old/Dog_BuiltData.uasset" 346
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Old/Dog.umap" 347
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Old/Selection_Testing_BuiltData.uasset" 348
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Old/Selection_Testing.umap" 349
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Old/Working_Naming_System_BuiltData.uasset" 350
+"E:/Vet School Projects/Cow Only/Vet_Med_VR Cow Only/Content/Maps/Old/Working_Naming_System.umap" 351
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 352
+"../../../Engine/Content/Maps/Entry.umap" 353
