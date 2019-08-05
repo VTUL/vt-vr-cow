@@ -21,3 +21,5 @@ If it doesn't, check to make sure that your headset is connected and setup prope
 By using or adapting the Virtual Reality Cow, you are joining a community of like-minded educators who are broadening access to innovative learning environments using open-source applications. 
 
 Please complete this form https://forms.gle/fWeQbiwWyPZCY5kk6 before using the VR animal. This will help us better understand your interest and use of the VR Cow, provide quantitative feedback to project stakeholders, and to understand your level of interest in development and research opportunities.
+
+Additional information about VR Projects from the University Libraries at Virginia Tech is available at: https://lib.vt.edu/research-learning/vr-research-projects.html 
