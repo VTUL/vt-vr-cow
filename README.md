@@ -1,5 +1,4 @@
-# vt-vr-cow
-Virtual reality bovine simulation 0.1 (BETA) for use in veterinarian medicine
+# Virtual Reality Bovine 0.1 (BETA) from Virginia Tech
 
 ### SYSTEM REQUIREMENTS
 |           | MINIMUM                                 | RECOMMENDED            |
